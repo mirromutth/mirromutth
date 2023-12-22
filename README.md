@@ -6,8 +6,6 @@ Backend Architect 🧐, Developer 🤔, Gamer 🤪, Animation/Manga Fan 🥰
 
 Rust 🤩, Kotlin 😍, Golang 🥰, Java 😘, JavaScript/TypeScript 😍, C\# 🥳
 
-ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mirromutth&show_icons=true&theme=tokyonight"
@@ -19,5 +17,7 @@ Rust 🤩, Kotlin 😍, Golang 🥰, Java 😘, JavaScript/TypeScript 😍, C\# 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mirromutth&show_icons=true&theme=default" />
 </picture>
+
+ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
 
 Languages: English, Japanese, Chinese (are we talking about human language, right?)
